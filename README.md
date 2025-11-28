@@ -57,7 +57,7 @@ Table 3. Class and data type in FrmClubRegistration
 - Create a method named RefreshListOfClubMembers and add the following code:
 a. clubRegistrationQuery.DisplayList();
 b. dataGridView.DataSource = clubRegistrationQuery.bindingSource;
-11. Double click on the form of FrmClubRegistration to generate a Load event. Initialize the
+- Double click on the form of FrmClubRegistration to generate a Load event. Initialize the
 ClubRegistrationQuery class and call the RefreshListOfClubMembers method.
 - Create a method named RegistrationID that returns an integer value. This method will increment by
 one (1) in each transaction. Use the count variable in Table 3.
