@@ -1,5 +1,5 @@
 # ClubRegistration
-A performance task in Computer Programming where I have to create a program that connects to the database. 
+A performance task in Computer Programming using C# and Visual Studio 2022, I have to create a program that connects to the database. 
 Tasks to accomplish the PT:
 - Designing the UI layout of the Registration and the Updating layout
 - Create a table named ClumMembers with the following coluums: ID,StudentID,FIRSTNAME,MIDDLENAME,LASTNAME,AGE,GENDER, and PROGRAM.
